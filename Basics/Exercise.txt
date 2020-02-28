@@ -1,0 +1,9 @@
+1. Explain what the terminal is in your own words.
+	In my own words, the Terminal is a very powerful tool that allows you to manipulate your mac without the use of GUI. Some even consider it to be a faster means of manipulation.
+ 
+2. What is the major difference between Git and Github?
+	Git is the version control while Github is a hub for the repositories. By pushing your Git into Github, you turn the local repository into a distributed repository.
+ 
+3. Why do we use Github?
+	Its an easier way to manage collaborative efforts, involving code.
+
